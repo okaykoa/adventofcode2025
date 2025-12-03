@@ -1,4 +1,4 @@
-# Solution to Advent of Code 2024 Day 1
+# Solution to Advent of Code 2025 Day 1
 class DialNumber:
     def __init__(self, name, left, right):
         self.name = name
