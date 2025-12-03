@@ -1,4 +1,4 @@
-# Solution to Advent of Code 2024 Day 2
+# Solution to Advent of Code 2025 Day 2
 
 def get_input(filename):    
     with open(filename, "r") as f:
